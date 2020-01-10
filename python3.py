@@ -18,6 +18,8 @@ hobloh: "ke Mang Uing bro!!!!"
 """
 
 text8 = r'C:\nyoto' # raw string --> bagaimanakah hasil ini??
+"""Berupa string yang sesuai. Menekan arti aktual karakter Escape,sehingga mengabaikan kode \n.
+"""
 
 print(text8)
 print(5*"wk")
